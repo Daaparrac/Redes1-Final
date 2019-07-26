@@ -9,7 +9,7 @@ Mysql Server y Workbench 8.0
 angular node js
 Un editor de texto preferiblemente (SublimeText3)
 
-##Instalación y Despliegue
+## Instalación y Despliegue
 
 Al tener instalados estos programas en la computadora, para el despliegue del clinic search descargue el archivo final redes1.doc y en el apartado implementacion se muestra la configuración del api y archivos para su completo despliegue
 
